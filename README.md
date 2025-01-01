@@ -23,5 +23,5 @@ This repository contains a collection of JavaScript-based projects, ranging from
 - Each project resides in its own folder, containing:
   - **`index.html`**: The entry point for the project.
   - **`style.css`**: Project-specific styling.
-  - **`script.js`**: JavaScript logic for the project.
+  - **`main.js`**: JavaScript logic for the project.
 

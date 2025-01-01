@@ -47,7 +47,7 @@
 //   });
 // });
 
-
+// To get the random color except the block color
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
 
